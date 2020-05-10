@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 3 Intro To Conditional Statements", "Day 3 Intro To Conditional Statements.csproj", "{C62F12F2-E9BC-498C-A5D9-49B947A73853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62F12F2-E9BC-498C-A5D9-49B947A73853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62F12F2-E9BC-498C-A5D9-49B947A73853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62F12F2-E9BC-498C-A5D9-49B947A73853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62F12F2-E9BC-498C-A5D9-49B947A73853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D23AE4F-7405-4A95-9A0E-7540988314EF}
+	EndGlobalSection
+EndGlobal
